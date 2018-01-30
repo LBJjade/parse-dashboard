@@ -4,9 +4,7 @@
       "serverURL":"http://localhost:1337/parse",
       "appId":"bec",
       "masterKey":"bec",
-      "appName":"Becheer",
-      "iconName": "logo.svg"
+      "appName":"Becheer"
     }
-  ],
-  "iconsFolder": "icons"
+  ]
 }
